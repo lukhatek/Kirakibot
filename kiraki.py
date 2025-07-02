@@ -1,5 +1,6 @@
 # KOD YAZMAK MÜKEMMEL OLM
 import discord
+import base64
 from discord.ext import commands
 import random
 import asyncio
